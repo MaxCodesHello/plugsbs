@@ -14,3 +14,6 @@ In order to get a subdomain, here's what you do:
 **3. If choosing discord, join the server, and DM the "DM for Subdomains" bot. If choosing Google Forms, it's self-explanatory.**
 
 You can also request a subdomain by making a pull request or starting a discussion on this repo. However this is only for free subdomains, if you want a paid one you'll have to do what it says above as we aren't accepting paid subdomain creation through the github.
+
+
+Donations are appreciated so we can keep the site up and the domains up for multiple years, and we think that not a lot of people will buy paid subdomains. Obviously, donations are optional and we appreciate your contribution! https://ko-fi.com/charitylexus
